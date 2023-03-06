@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>Hello AWS Amplify</h1>
     <p>{{ msg }}</p>
+    <p>just for commit</p>
   </div>
 </template>
 
